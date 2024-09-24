@@ -1,0 +1,9 @@
+{
+	"name": "Abishek",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33b01a87-4ead-4600-89c8-b3bea0bd9d2e",
+		"tenantId": "c3325531-8aa8-4399-80b5-3489aef721ae"
+	}
+}
